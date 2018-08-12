@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "name": "cordova-plugin-ringermode",
+    "cordova_name": "RingerMode",
+    "description": "A plugin for getting the ringer mode of a device.",
+    "license": "MIT",
+    "repo": "https://github.com/angel1st/cordova-plugin-ringermode",
+    "issue": "",
+    "keywords": [],
+    "platforms": [
+      "android"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ]
+  }
